@@ -15,3 +15,5 @@ export interface JobApplication {
         tips: string[];
     };
 }
+
+// ref: 1
